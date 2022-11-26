@@ -56,6 +56,10 @@ form button {
 form button:hover {
   background: var(--primary-color-darker);
 }
-.relogio{
-  font-size: 3rem;
+.relogio {
+  font-size: 3em;
+}
+
+.pausado {
+  color: red;
 }
